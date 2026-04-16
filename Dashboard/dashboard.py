@@ -8,7 +8,7 @@ import re
 # ── Página ───────────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="LBX Construtora — Dashboard",
-    page_icon="🏗️",
+    page_icon="logo.png",
     layout="wide",
     initial_sidebar_state="expanded",
 )
